@@ -946,6 +946,10 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 1.8
       objectReference: {fileID: 0}
+    - target: {fileID: 3532567338331304287, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.056
+      objectReference: {fileID: 0}
     - target: {fileID: 5869865541294654398, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_Name
       value: Lansdowne
@@ -3227,6 +3231,10 @@ PrefabInstance:
     - target: {fileID: 3532567338013777456, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_fontSize
       value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3532567338331304287, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.028
       objectReference: {fileID: 0}
     - target: {fileID: 5869865541294654398, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_Name
@@ -7259,6 +7267,10 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 3532567338331304287, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.056
+      objectReference: {fileID: 0}
     - target: {fileID: 5869865541294654398, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_Name
       value: EdinburghSD
@@ -7638,6 +7650,10 @@ PrefabInstance:
     - target: {fileID: 3532567338013777456, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_fontSize
       value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3532567338331304287, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.037
       objectReference: {fileID: 0}
     - target: {fileID: 5869865541294654398, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_Name
@@ -8513,8 +8529,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1459844843}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.1376, y: 0.0172, z: 0}
-  m_LocalScale: {x: 16.900738, y: 10.602563, z: 1}
+  m_LocalPosition: {x: -1.5648, y: 4.4796, z: 0}
+  m_LocalScale: {x: 31.977648, y: 19.525558, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -10956,6 +10972,10 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 1.6
       objectReference: {fileID: 0}
+    - target: {fileID: 3532567338331304287, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.018
+      objectReference: {fileID: 0}
     - target: {fileID: 5869865541294654398, guid: bf4237c031d42da419bba2177b8422c1, type: 3}
       propertyPath: m_Name
       value: Leatherhead
@@ -12159,8 +12179,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2110094817}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0881, y: -2.8355, z: 0}
-  m_LocalScale: {x: 20.574177, y: 4.98173, z: 1}
+  m_LocalPosition: {x: 2.0224, y: -4.9662, z: 0}
+  m_LocalScale: {x: 29.538876, y: 9.243438, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
